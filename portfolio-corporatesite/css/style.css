@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.top-img{
+    background-image: url(../image/img01.JPG);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.top-text{
+    text-align: center;
+    padding: 200px 0;
+}
+.top-text h1{
+    font-size: 400%;
+    font-family: 'Cormorant Garamond', serif;
+}
+nav h3{
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+}
+nav i{
+    color: #888;
+}
+.nightsky-img{
+    background-image: url(../image/fix-bg.jpg);
+    background-size: cover;
+    padding: 200px 0;
+    text-align: center;
+}
+.nightsky-text h2{
+    font-size: 300%;
+    font-family: 'Cormorant Garamond', serif;
+    margin-bottom: 40px;
+}
+
+.service-list{
+    background-color: black;
+    padding: 50px;
+}
+.service-list h2{
+    font-size: 300%;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
+.service-list a button{
+    margin: 0.5rem;
+}
+.col-md-6{
+    padding: 15px;
+}
+.col-md-6 img{
+    text-align: center;
+}
+.col-md-4{
+    padding: 30px;
+}
+.info{
+    border: solid 2px white;
+    margin: 20px;
+    padding: 20px;
+
+}
+.info i{
+    font-size: 300%;
+}
+.info p{
+    padding: 10px;
+}
+footer{
+    background-color: #333;
+    padding: 20px;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    color: #aaa;
+    font-size: 13px;
+    text-decoration: none;
+}
+footer ul li a:hover{
+    color: white;
+    text-decoration: none;
+}
+.copy{
+    text-align: right;
+}
